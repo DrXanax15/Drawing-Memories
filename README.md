@@ -1,2 +1,6 @@
 # Drawing-Memories
-Se hacen dibujos al gusto 
+*Dibujos A Mano
+
+*Dibujos Digitales
+
+*Edición De Fotografías
